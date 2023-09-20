@@ -1,4 +1,4 @@
-class CodeeditCli < Formula
+class CodemasterCli < Formula
     desc "A command-line-interface to open files/folders in CodeMaster.app"
     homepage "https://github.com/CodeMasterApp/CodeMasterCLI"
     # url "" # of tar.gz file
